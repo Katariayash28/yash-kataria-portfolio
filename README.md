@@ -1,75 +1,87 @@
-Yash Kataria — 3D Data Analyst Portfolio
+# Yash Kataria — Data Analyst Portfolio
 
-Data Analyst | Python | SQL | Power BI | Machine Learning | AI
+> **Data Analyst | Python | SQL | Power BI | Machine Learning | AI**
 
-🌐 Live Portfolio: https://yash-kataria-portfolio.vercel.app/
+🌐 **Live Portfolio:** https://yash-kataria-portfolio.vercel.app/
 
-👋 About Me
+---
 
-I'm Yash Kataria, a Data Analyst with a science background and a strong interest in turning data into actionable insights.
+## 👋 About Me
 
-My toolkit combines SQL, Python, Power BI, data visualization, statistics, machine learning, and AI. I enjoy solving real-world problems by transforming raw data into clear business insights and predictive solutions.
+I'm **Yash Kataria**, a Data Analyst with a science background and a strong interest in turning data into actionable insights.
 
-I also built YashAI, an LLM-powered personal assistant integrated into this portfolio to help visitors learn about my professional background, skills, projects, and experience.
+My toolkit combines **SQL, Python, Power BI, data visualization, statistics, machine learning, and AI**. I enjoy solving real-world problems by transforming raw data into clear business insights and predictive solutions.
 
-Education
+I also built **YashAI**, an LLM-powered personal assistant integrated into this portfolio to help visitors learn about my professional background, skills, projects, and experience.
 
-B.Sc. (Hons.) Biotechnology
+### 🎓 Education
 
-12th Standard: 91.2% — Science (PCB)
+- **B.Sc. (Hons.) Biotechnology**
+- **12th Standard: 91.2% — Science (PCB)**
 
-🚀 Featured Projects
+---
 
-🤖 AI Fraud Detection System
+## 🚀 Featured Projects
 
-Machine learning project focused on identifying potentially fraudulent transactions and supporting risk analysis.
+### 🤖 AI Fraud Detection System
 
-Focus: Fraud Detection • Machine Learning • Classification • Risk Analytics
+An end-to-end machine learning project focused on identifying potentially fraudulent transactions and supporting risk analysis.
 
-Repository: https://github.com/Katariayash28/AI-Fraud-Detection-System
+**Focus:** Fraud Detection • Machine Learning • Classification • Risk Analytics
 
-🏠 House Price Prediction
+🔗 **Repository:**  
+https://github.com/Katariayash28/AI-Fraud-Detection-System
 
-Machine learning project for analyzing housing features and predicting property prices.
+---
 
-Focus: Regression • Feature Engineering • Data Analysis • Machine Learning
+### 🏠 House Price Prediction
 
-Repository: https://github.com/Katariayash28/House-Price-Prediction
+A machine learning project for analyzing housing features and predicting property prices using predictive modeling techniques.
 
-🧠 Weekly Intelligence Agent
+**Focus:** Regression • Feature Engineering • Data Analysis • Machine Learning
 
-AI-powered intelligence project focused on automated information processing and intelligent reporting.
+🔗 **Repository:**  
+https://github.com/Katariayash28/House-Price-Prediction
 
-Focus: AI Agents • LLMs • Automation • Data Intelligence
+---
 
-Repository: https://github.com/Katariayash28/Weekly-Intelligence-Agent
+### 🧠 Weekly Intelligence Agent
 
-📉 Customer Churn Analysis
+An AI-powered intelligence project focused on automated information processing and intelligent reporting.
 
-Customer analytics project focused on understanding churn patterns and identifying factors associated with customer retention risk.
+**Focus:** AI Agents • LLMs • Automation • Data Intelligence
 
-Focus: Customer Analytics • EDA • Machine Learning • Business Insights
+🔗 **Repository:**  
+https://github.com/Katariayash28/Weekly-Intelligence-Agent
 
-Repository: https://github.com/Katariayash28/Customer-Churn-Analysis
+---
 
-🤖 YashAI
+### 📉 Customer Churn Analysis
 
-This portfolio includes YashAI, a personal AI assistant built to answer questions about my background, skills, projects, and experience.
+A customer analytics project focused on understanding churn patterns and identifying factors associated with customer retention risk.
 
-What it can do
+**Focus:** Customer Analytics • EDA • Machine Learning • Business Insights
 
-Answer questions about my background
+🔗 **Repository:**  
+https://github.com/Katariayash28/Customer-Churn-Analysis
 
-Explain my technical skills
+---
 
-Discuss my projects
+## 🤖 YashAI
 
-Highlight relevant experience
+This portfolio includes **YashAI**, a personal AI assistant built specifically to answer questions about my background, skills, projects, and experience.
 
-Help recruiters quickly understand my profile
+### What it can do
 
-Architecture
+- Answer questions about my background
+- Explain my technical skills
+- Discuss my projects
+- Highlight relevant experience
+- Help recruiters quickly understand my profile
 
+### Architecture
+
+```text
 Visitor
    ↓
 3D Portfolio
@@ -82,198 +94,4 @@ Groq LLM
    ↓
 Personal Knowledge Base
    ↓
-Context-aware response
-
-🛠️ Technical Skills
-
-Data Analytics
-
-SQL
-
-Python
-
-Pandas
-
-NumPy
-
-Exploratory Data Analysis
-
-Data Cleaning
-
-Data Visualization
-
-Statistical Analysis
-
-Business Intelligence
-
-Power BI
-
-Dashboard Development
-
-KPI Tracking
-
-Data Storytelling
-
-Business Reporting
-
-Machine Learning
-
-Scikit-learn
-
-Classification
-
-Regression
-
-Feature Engineering
-
-Model Evaluation
-
-Predictive Analytics
-
-AI & Development
-
-LLM Applications
-
-AI Agents
-
-Prompt Engineering
-
-Groq API
-
-React
-
-Vite
-
-JavaScript
-
-REST APIs
-
-Git & GitHub
-
-Vercel
-
-🎨 Portfolio Features
-
-✨ Premium 3D-inspired interface
-
-🧊 Interactive visual elements
-
-📊 Data Analyst-focused project showcase
-
-🤖 Personal AI assistant
-
-🔗 Direct GitHub project access
-
-📱 Responsive design
-
-⚡ Fast React + Vite frontend
-
-☁️ Vercel deployment
-
-🧩 Tech Stack
-
-Technology
-
-Purpose
-
-React
-
-Frontend
-
-Vite
-
-Build & development
-
-JavaScript
-
-Application logic
-
-CSS
-
-UI & animations
-
-Python
-
-Data & ML
-
-SQL
-
-Data analysis
-
-Power BI
-
-Business intelligence
-
-Groq
-
-LLM-powered YashAI
-
-Vercel
-
-Deployment
-
-GitHub
-
-Version control
-
-📁 Project Structure
-
-yash-kataria-portfolio/
-├── api/
-│   └── chat.js
-├── src/
-│   ├── main.jsx
-│   ├── YashAI.jsx
-│   ├── yashKnowledge.js
-│   └── styles.css
-├── public/
-├── index.html
-├── package.json
-├── package-lock.json
-├── .gitignore
-└── README.md
-
-💻 Run Locally
-
-git clone https://github.com/Katariayash28/yash-kataria-portfolio.git
-cd yash-kataria-portfolio
-npm install
-npm run dev
-
-For YashAI, create .env.local and add:
-
-GROQ_API_KEY=your_groq_api_key
-
-Never commit .env.local or expose your API key in frontend code.
-
-🚀 Deployment
-
-The portfolio is deployed using Vercel.
-
-VS Code → Git → GitHub → Vercel → Live Portfolio
-
-📈 Career Interests
-
-I'm interested in opportunities where I can use data analytics, business intelligence, Python, SQL, Power BI, machine learning, and AI to solve real-world business problems.
-
-Open to:
-
-Data Analyst
-
-Business Analyst
-
-BI Analyst
-
-Junior Data Scientist
-
-Analytics / AI-focused roles
-
-📬 Connect
-
-Portfolio: https://yash-kataria-portfolio.vercel.app/
-
-GitHub: https://github.com/Katariayash28
-
-⭐ If you like this portfolio, feel free to explore the projects and connect with me.
-
-© 2026 Yash Kataria
+Context-aware response about Yash
