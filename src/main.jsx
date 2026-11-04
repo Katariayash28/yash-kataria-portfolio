@@ -1164,6 +1164,9 @@ function App() {
             <Mail size={15} />
 
           </a>
+          <a href="/Yash-Kataria-Analyst.pdf" download>
+  <span>Download My Resume</span>
+</a>
 
         </div>
 
