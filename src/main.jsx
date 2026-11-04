@@ -764,7 +764,7 @@ function App() {
             <div className="timeline-row">
 
               <span className="timeline-date">
-                JUL 2026 — PRESENT
+                MAY 2026 — PRESENT
               </span>
 
 
