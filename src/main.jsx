@@ -1143,7 +1143,7 @@ function App() {
 
 
           <a
-            href="linkedin.com/in/katariaayash"
+            href="https://www.linkedin.com/in/katariaayash/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BAipzrrI4SBqeuhS0PUztzA%3D%3D"
             target="_blank"
             rel="noreferrer"
           >
